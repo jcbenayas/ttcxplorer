@@ -1,0 +1,10 @@
+gradio
+polars-lts-cpu
+pandas
+matplotlib
+openai
+requests
+reportlab
+markdown
+beautifulsoup4
+pyarrow
